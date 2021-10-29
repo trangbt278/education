@@ -34,8 +34,11 @@ For reading scores, New Hampshire, Massachusetts, Vermont, Connecticut, and New 
 Finally, we ran statistical testing between the aforementioned relationships in order to quantify the results we were observing. In each scatter plot below, the p-values were consistently above 0.05, which indicates that there is no statistically significant relationship between the variables being analyzed. However, upon running a linear regression on the relationship between average test scores across every year the test had been given (this data set included 12 years) and the instructional expenditure per student per state for that year, there appeared to be some statistical significance between the variables. The p-values of both relationships were very near zero, which is below our selected alpha of 0.05. Because of this finding, we started to consider other opportunities for further research that could help us explain what we were seeing in our data.
 
 [Reg_2015_Exp_Math.png]
+
 [Reg_2015_Exp_Read.png]
+
 [Reg_All_Exp_Math.png]
+
 [Reg_All_Exp_Read.png]
 
 # Implications of Further Analysis
