@@ -1,4 +1,4 @@
-# Federal Funding vs Student Achievement
+# Funding vs Student Achievement
 
 ![education.jpeg](https://github.com/trangbt278/education/blob/main/readme_images/Education.jpeg)
 
